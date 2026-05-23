@@ -21,7 +21,7 @@ Here you'll find:
  ┣ 📂 theory/          # Lecture notes and concept summaries
  ┣ 📂 assignments/     # Practice exercises and solutions
  ┣ 📂 datasets/        # Data files used in assignments
- ┗ 📂 resources/       # Useful links, cheat sheets, references
+ 
 ```
 
 ---
