@@ -1,4 +1,4 @@
-# 🤖 KI & ML — Course Repository
+# 🤖 AI & ML — Course Repository
 ---
 
 ## 👩‍💻 About This Repo
